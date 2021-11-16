@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 -    twitter: @santyi1995  
 -    E-mail: gsemanuel@yahoo.com
--If you are watching this, I hope we will work together one day.
+-    If you are watching this, I hope we will work together one day.
 <!---
 GSEmanuel/GSEmanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
