@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GSEmanuel and I´m a junior software developer
 - 👀 I’m interested in software developer, engineering and algorithm study
-- 🌱 I’m currently learning flask and python, never stop learning.
+- 🌱 I’m currently learning flask and python, I never stop learning.
 - 💞️ I’m looking to collaborate on proyects everywhere.
 - 📫 How to reach me 
      twitter: @santyi1995  ...
